@@ -377,6 +377,7 @@ initial_entities:
         'false': 关闭
         'true': 开启
     identifier: valve_1
+    important: 1
   - name: 阀门1延迟控制结果
     type: property
     access_mod: R
@@ -395,6 +396,7 @@ initial_entities:
         'false': 关闭
         'true': 开启
     identifier: valve_2
+    important: 2
   - name: 阀门2延迟控制状态
     type: property
     access_mod: R
