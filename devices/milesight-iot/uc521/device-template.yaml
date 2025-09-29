@@ -1200,7 +1200,7 @@ initial_entities:
             '0': 双通球阀
             '1': 三通球阀
         identifier: valve_type
-       - name: 自动校准
+      - name: 自动校准
         value_type: boolean
         attributes:
           enum:
