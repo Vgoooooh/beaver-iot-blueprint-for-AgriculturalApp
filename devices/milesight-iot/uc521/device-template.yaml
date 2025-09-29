@@ -919,6 +919,7 @@ initial_entities:
         '1': 读取错误
     identifier: pressure_1_sensor_status
   - name: 压力值2传感器状态
+    type: property
     access_mod: R
     value_type: long
     attributes:

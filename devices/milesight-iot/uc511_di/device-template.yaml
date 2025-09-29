@@ -642,8 +642,8 @@ initial_entities:
       - name: 脉冲流量
         value_type: long
         identifier: valve_pulse
-  - identifier: 阀门2控制
-    name: Valve 2 Task (Time Rule Enable)
+  - identifier: valve_2_task
+    name: 阀门2控制
     type: property
     access_mod: RW
     value_type: object
